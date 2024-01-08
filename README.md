@@ -26,3 +26,17 @@ Welcome to my Fedora dotfiles repository! Here, I've curated a personalized envi
 + **Term**   -  Kitty 🚀
 + **Music**: Spotify 🎶
 + **Editor**: Neovim - [Config](/config/nvim/) ⚙️
+
+## 🌟 Visual Delight
+Check out the screenshot to get a visual preview of my Fedora configuration. The desktop showcases a carefully crafted visual theme, blending aesthetics with a user-friendly interface.
+
+## ⚙️ Configurations
+Dive into config folder for a glimpse of how I've fine-tuned my daily companion. The setup is designed for efficiency, with plugins and key mappings tailored to my workflow.
+
+## 🌟 Acknowledgments
+
+`kickstart.nvim` would like to extend heartfelt thanks to the individuals and communities who have contributed to its development and improvement. This project stands on the shoulders of many talented and dedicated individuals, and their efforts are sincerely appreciated!
+
+## :wave: Remarks
+
+Feel free to explore the dotfiles and configurations to gather insights or adapt elements for your own Fedora setup. Enjoy the journey of customization and optimization! 🌈
